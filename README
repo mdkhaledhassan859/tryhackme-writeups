@@ -1,0 +1,33 @@
+# TryHackMe Writeups
+
+This repository contains my personal learning notes and writeups from TryHackMe rooms.
+
+## Disclaimer
+
+These writeups are created for educational purposes only and do not contain active exploitation instructions against real-world systems.
+
+## Completed Rooms
+
+| Room Name | Status |
+|------------|---------|
+| Offensive Security Intro | ✅ |
+| Defensive Security Intro | ✅ |
+| Linux Fundamentals Part 1 | ✅ |
+| Enumeration & Brute Force | ✅ |
+| AI/ML Security Threats | ✅ |
+
+## Skills Covered
+
+- Linux Fundamentals
+- Networking
+- Web Security
+- Reconnaissance
+- Enumeration
+- Authentication Security
+- AI/ML Security Risks
+- Security Fundamentals
+
+## Platform
+
+TryHackMe Profile:
+https://tryhackme.com/p/md.khaled5970
